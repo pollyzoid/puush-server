@@ -1,0 +1,9 @@
+site: -removed-
+
+admin:
+  email: -removed-
+  password: -removed-
+
+database:
+  development: sqlite://database.db
+  production: -removed-
